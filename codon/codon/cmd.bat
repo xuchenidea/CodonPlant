@@ -1,0 +1,1 @@
+codon.exe seq.txt codon_1.txt opt_codon_1.txt special_codon.txt 20 10 100 5.0f
